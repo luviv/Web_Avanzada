@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+.cardOptions {
+    margin: 10px;
+    background: rgba(196, 196, 196, 0.2);
+    width: 10%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.imgOptions {
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+}
+
+.pOption {
+    padding: 0;
+    margin: 5px;
+}

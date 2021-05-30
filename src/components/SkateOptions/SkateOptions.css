@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+.skateOptions {
+    width: 100%;
+}
+
+.partOptions {
+    width: 100%;
+    background-color: #001426;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tittleOptions {
+    font-size: 20px;
+}

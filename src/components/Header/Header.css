@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+header{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+.header {
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    z-index: 2;
+    padding: 10px;
+}
+
+.background {
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+    height: 85px;
+}
+
+.tittle {
+    z-index: 2;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}

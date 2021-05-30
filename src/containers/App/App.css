@@ -1,0 +1,16 @@
+.skateAccount {
+    display: flex;
+    width: 100%;
+}
+
+.skatePartsChange {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #001426;
+}
+
+.optionComponent {
+    display: flex;
+    justify-content: center;
+}
